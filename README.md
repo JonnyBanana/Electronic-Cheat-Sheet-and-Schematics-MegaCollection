@@ -1,4 +1,4 @@
-# Electronic-Cheat-Sheet-Schematics-MegaCollection
+# Electronic-Cheat-Sheet-and-Schematics-MegaCollection
 
 
 
